@@ -1,0 +1,1276 @@
+<mxfile host="Electron" modified="2024-10-29T20:17:04.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="xzcvYRNF8C-nDpzWzrLK" version="21.6.8" type="device" pages="5">
+  <diagram id="Q0TW_Hb0iB3Fi6X-eWgF" name="Legend">
+    <mxGraphModel dx="2058" dy="2316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="D_jJ2ECsmRZs1jVZccvX-0" />
+        <mxCell id="D_jJ2ECsmRZs1jVZccvX-1" parent="D_jJ2ECsmRZs1jVZccvX-0" />
+        <mxCell id="1l3qXEPzlPcwECowGKU2-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;align=center;verticalAlign=middle;" parent="D_jJ2ECsmRZs1jVZccvX-1" vertex="1">
+          <mxGeometry x="204" y="-805.5" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lp8f2XXkKbgaQqU6bYdA-0" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Content&amp;nbsp;&amp;gt;&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;(~ 7)&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Постер&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="D_jJ2ECsmRZs1jVZccvX-1" vertex="1">
+          <mxGeometry x="164" y="-714.5" width="140" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ83YgACJYGlYKi3hyzy-6" value="Кнопка «Меню» (графическое обозначение соответствует тому, как элемент будет представлен на экране).&lt;br style=&quot;font-size: 14px;&quot;&gt;При нажатии появляется выпадающий список, по которому можно осуществить навигацию по разделам сайта" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Comic Sans MS;" parent="D_jJ2ECsmRZs1jVZccvX-1" vertex="1">
+          <mxGeometry x="321.5" y="-1011" width="478.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ83YgACJYGlYKi3hyzy-7" value="" style="group" parent="D_jJ2ECsmRZs1jVZccvX-1" vertex="1" connectable="0">
+          <mxGeometry x="231.5" y="-995.5" width="45" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="xnz8tSwDub7hzC-HsTIB-2" value="" style="group" parent="hJ83YgACJYGlYKi3hyzy-7" vertex="1" connectable="0">
+          <mxGeometry width="45" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="xnz8tSwDub7hzC-HsTIB-3" value="" style="group" parent="xnz8tSwDub7hzC-HsTIB-2" vertex="1" connectable="0">
+          <mxGeometry width="45" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="xnz8tSwDub7hzC-HsTIB-4" value="" style="endArrow=none;html=1;" parent="xnz8tSwDub7hzC-HsTIB-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9.642857142857142" y="16.34285714285714" as="sourcePoint" />
+            <mxPoint x="35.35714285714286" y="16.34285714285714" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xnz8tSwDub7hzC-HsTIB-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="xnz8tSwDub7hzC-HsTIB-3" vertex="1">
+          <mxGeometry width="45" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="xnz8tSwDub7hzC-HsTIB-6" value="" style="endArrow=none;html=1;" parent="xnz8tSwDub7hzC-HsTIB-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9.642857142857142" y="22.628571428571426" as="sourcePoint" />
+            <mxPoint x="35.35714285714286" y="22.628571428571426" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xnz8tSwDub7hzC-HsTIB-7" value="" style="endArrow=none;html=1;" parent="xnz8tSwDub7hzC-HsTIB-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9.642857142857142" y="28.914285714285715" as="sourcePoint" />
+            <mxPoint x="35.35714285714286" y="28.914285714285715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hJ83YgACJYGlYKi3hyzy-8" value="" style="group" parent="D_jJ2ECsmRZs1jVZccvX-1" vertex="1" connectable="0">
+          <mxGeometry x="231.5" y="-901" width="45" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ83YgACJYGlYKi3hyzy-2" value="" style="group" parent="hJ83YgACJYGlYKi3hyzy-8" vertex="1" connectable="0">
+          <mxGeometry width="45" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ83YgACJYGlYKi3hyzy-3" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=13.809523809523808;endSize=5.7;" parent="hJ83YgACJYGlYKi3hyzy-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="22.25999999999999" y="37" as="sourcePoint" />
+            <mxPoint x="22.25999999999999" y="7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hJ83YgACJYGlYKi3hyzy-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="hJ83YgACJYGlYKi3hyzy-2" vertex="1">
+          <mxGeometry width="45" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ83YgACJYGlYKi3hyzy-9" value="Кнопка «Вверх» (графическое обозначение соответствует тому, как элемент будет представлен на экране).&lt;br style=&quot;font-size: 14px;&quot;&gt;При нажатии осуществляет возвращение к блоку в верхней части страницы (header)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Comic Sans MS;" parent="D_jJ2ECsmRZs1jVZccvX-1" vertex="1">
+          <mxGeometry x="321.5" y="-916.5" width="478.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ83YgACJYGlYKi3hyzy-10" value="Серым цветом выделены управляющие элементы, которые осуществляют переадресацию на сторонние ресурсы&amp;nbsp;(или открывают сторонние ресурсы в модальном окне)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Comic Sans MS;" parent="D_jJ2ECsmRZs1jVZccvX-1" vertex="1">
+          <mxGeometry x="321.5" y="-823" width="478.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ83YgACJYGlYKi3hyzy-11" value="Обозначение (~ N) показывает количество N стереотипов для управляющих элементов графического интерфейса&amp;nbsp;(в данном случае указано, что на странице или в блоке отображается 7 постеров журнала манги)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Comic Sans MS;" parent="D_jJ2ECsmRZs1jVZccvX-1" vertex="1">
+          <mxGeometry x="321.5" y="-725.5" width="478.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Obkit8XK_j9e3qaDx-jf-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Поиск&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="D_jJ2ECsmRZs1jVZccvX-1" vertex="1">
+          <mxGeometry x="204" y="-1087.5" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Obkit8XK_j9e3qaDx-jf-1" value="&amp;lt;&amp;lt; Button &amp;gt;&amp;gt; — стереотип, который обозначает элемент интерфейса&lt;br&gt;(в данном случае указана кнопка); Поиск — наименование элемента, которое видит пользователь" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Comic Sans MS;" parent="D_jJ2ECsmRZs1jVZccvX-1" vertex="1">
+          <mxGeometry x="321.5" y="-1100" width="478.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="fXw_Rc75U2vC86ideaTK-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Block &amp;gt;&amp;gt; (~ 30)&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Список манги, выпускаемой журналом&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;" parent="D_jJ2ECsmRZs1jVZccvX-1" vertex="1">
+          <mxGeometry x="114" y="-630" width="190" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="fXw_Rc75U2vC86ideaTK-1" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Content&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Постер&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="D_jJ2ECsmRZs1jVZccvX-1" vertex="1">
+          <mxGeometry x="144" y="-560" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fXw_Rc75U2vC86ideaTK-2" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Бесплатное пробное чтение&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="D_jJ2ECsmRZs1jVZccvX-1" vertex="1">
+          <mxGeometry x="144" y="-490" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fXw_Rc75U2vC86ideaTK-3" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Купить мангу&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;align=center;verticalAlign=middle;" parent="D_jJ2ECsmRZs1jVZccvX-1" vertex="1">
+          <mxGeometry x="144" y="-400" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fXw_Rc75U2vC86ideaTK-6" value="В данном случае показано, что страница содержит 30 блоков, каждый из которых включает постер манги, кнопку «Бесплатное пробное чтение» (которая может и отсутствовать, если для данной манги указанная опция недоступна) и кнопку «Купить мангу» (которая также может отсутствовать — зависит от политики журнала и правообладателей)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Comic Sans MS;" parent="D_jJ2ECsmRZs1jVZccvX-1" vertex="1">
+          <mxGeometry x="324" y="-550" width="476" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tkz18HjG9gqHpbeXnGFH" name="Home Page">
+    <mxGraphModel dx="2885" dy="2316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="-WXng3lWemIyg7y73OuD-0" />
+        <mxCell id="-WXng3lWemIyg7y73OuD-1" parent="-WXng3lWemIyg7y73OuD-0" />
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-31" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Section&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Home page&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;strokeWidth=2;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="50" y="-870" width="840" height="1490" as="geometry" />
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-19" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Block &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Последний номер&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="296" y="-627" width="204" height="387" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-2" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Header &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Слоган журнала&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="94" y="-810" width="756" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-12" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Анкета&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="700" y="-630" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-13" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Поиск&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="720" y="-790" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-14" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Search Field &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;(без текста)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="550" y="-790" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-15" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Отзыв читателя&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="550" y="-630" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-16" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Content&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Логотип&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="170" y="-790" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-17" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Content&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Обложка&lt;br&gt;журнала&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="332.5" y="-560" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-18" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Block &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Новостная лента&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="640" y="-500" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-20" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Узнать больше&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="670" y="-440" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-21" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Купить электронную версию журнала&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="332.5" y="-450" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-22" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Подписаться&lt;br&gt;на журнал&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="332.5" y="-340" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-23" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Block &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Лента Twitter&lt;br&gt;(профиль редакции журнала)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="600" y="-323" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SWQ_V45pfbTZ602N4RDF-0" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Slider&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Манга, доступная&lt;br&gt;для бесплатного пробного чтения&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="116" y="-450" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SWQ_V45pfbTZ602N4RDF-1" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Slider&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Последние добавления (манга)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="280.5" y="-200" width="245" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SWQ_V45pfbTZ602N4RDF-2" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Content&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Рекламный&amp;nbsp;баннер 1&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="210" y="-120" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SWQ_V45pfbTZ602N4RDF-4" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Block &amp;gt;&amp;gt; (~ 30)&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Список манги, выпускаемой журналом&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="170" y="-40" width="490" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SWQ_V45pfbTZ602N4RDF-5" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Content&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Постер&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="200" y="20" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SWQ_V45pfbTZ602N4RDF-6" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Бесплатное пробное чтение&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="350" y="20" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SWQ_V45pfbTZ602N4RDF-7" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Купить мангу&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="500" y="20" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SWQ_V45pfbTZ602N4RDF-8" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Посмотреть полный список манги&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="680" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SWQ_V45pfbTZ602N4RDF-9" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Block &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Список последних номеров журнала&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="390" y="170" width="395" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SWQ_V45pfbTZ602N4RDF-10" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Content&amp;nbsp;&amp;gt;&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;(~ 7)&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Постер&lt;/span&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="420" y="230" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SWQ_V45pfbTZ602N4RDF-13" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Посмотреть полный список журналов&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="580" y="230" width="175" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SWQ_V45pfbTZ602N4RDF-14" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Footer&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Логотип, копирайт&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="95" y="380" width="745" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="y6sWIAfbWPbm0q9wHV6t-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Список авторов&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="119" y="410" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QrJGiUf_0UqyR3HS8Xmj-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Новости&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="119" y="480" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QrJGiUf_0UqyR3HS8Xmj-1" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Список журналов&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="271" y="480" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QrJGiUf_0UqyR3HS8Xmj-2" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Список манги&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="425" y="480" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GsCqkPFzRIaCfNbCJABP-0" value="&lt;div&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Link&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Facebook / Twitter / Instagram&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="560" y="410" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dkfq9ooyyAefEhxlNVKo-12" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Content&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Рекламный&amp;nbsp;баннер 2&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="420" y="-120" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WcX14k2gvXhYx_sbHlz8-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Авторизация&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="700" y="-720" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dtmoumuFpnkeFrYgFe_5-0" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Modal window&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Авторизация&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="920" y="-720" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6lvzezlOdgcOlIE4TGHY-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="-WXng3lWemIyg7y73OuD-1" source="WcX14k2gvXhYx_sbHlz8-0" target="dtmoumuFpnkeFrYgFe_5-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="-540" as="sourcePoint" />
+            <mxPoint x="930" y="-650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6lvzezlOdgcOlIE4TGHY-1" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Modal window&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Результаты поиска&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="920" y="-790" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqzrWkoEk2ISTtcTY1vk-1" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="-WXng3lWemIyg7y73OuD-1" source="DdIx8lzf5ebQ9bsrDzJN-14" target="6lvzezlOdgcOlIE4TGHY-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="-684.9999999999998" as="sourcePoint" />
+            <mxPoint x="755" y="-920" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="625" y="-840" />
+              <mxPoint x="1000" y="-840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZqzrWkoEk2ISTtcTY1vk-4" value="переход по&lt;br&gt;нажатию enter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontSize=13;labelBackgroundColor=none;" parent="ZqzrWkoEk2ISTtcTY1vk-1" vertex="1" connectable="0">
+          <mxGeometry x="-0.208" relative="1" as="geometry">
+            <mxPoint x="158" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZqzrWkoEk2ISTtcTY1vk-2" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="-WXng3lWemIyg7y73OuD-1" source="DdIx8lzf5ebQ9bsrDzJN-13" target="6lvzezlOdgcOlIE4TGHY-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="635" y="-779.9999999999998" as="sourcePoint" />
+            <mxPoint x="775" y="-900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZqzrWkoEk2ISTtcTY1vk-5" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Анкета&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="920" y="-630" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqzrWkoEk2ISTtcTY1vk-6" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="-WXng3lWemIyg7y73OuD-1" source="DdIx8lzf5ebQ9bsrDzJN-12" target="ZqzrWkoEk2ISTtcTY1vk-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="-684.9999999999998" as="sourcePoint" />
+            <mxPoint x="930" y="-685.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZqzrWkoEk2ISTtcTY1vk-7" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Форма отзыва читателя&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="920" y="-560" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqzrWkoEk2ISTtcTY1vk-8" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="-WXng3lWemIyg7y73OuD-1" source="DdIx8lzf5ebQ9bsrDzJN-15" target="ZqzrWkoEk2ISTtcTY1vk-7" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="-594.9999999999998" as="sourcePoint" />
+            <mxPoint x="948.5" y="-594.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZqzrWkoEk2ISTtcTY1vk-10" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Новости&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="920" y="-370" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqzrWkoEk2ISTtcTY1vk-11" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#A680B8;fillColor=none;resizable=0;pointerEvents=0;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="955" y="-455" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZqzrWkoEk2ISTtcTY1vk-12" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="-WXng3lWemIyg7y73OuD-1" source="DdIx8lzf5ebQ9bsrDzJN-18" target="ZqzrWkoEk2ISTtcTY1vk-11" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="-594.9999999999998" as="sourcePoint" />
+            <mxPoint x="948.5" y="-594.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZqzrWkoEk2ISTtcTY1vk-13" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="-WXng3lWemIyg7y73OuD-1" source="DdIx8lzf5ebQ9bsrDzJN-20" target="ZqzrWkoEk2ISTtcTY1vk-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="-425" as="sourcePoint" />
+            <mxPoint x="990" y="-425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZqzrWkoEk2ISTtcTY1vk-14" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="-WXng3lWemIyg7y73OuD-1" source="ZqzrWkoEk2ISTtcTY1vk-11" target="ZqzrWkoEk2ISTtcTY1vk-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="-425" as="sourcePoint" />
+            <mxPoint x="990" y="-425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZqzrWkoEk2ISTtcTY1vk-15" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;(любой раздел сайта)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="920" y="-290" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EguxZurvpgUAE8efUvrj-1" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="-WXng3lWemIyg7y73OuD-1" source="DdIx8lzf5ebQ9bsrDzJN-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="-505.4199999999998" as="sourcePoint" />
+            <mxPoint x="-16" y="-572" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-0" value="" style="endArrow=none;html=1;strokeWidth=6;" parent="-WXng3lWemIyg7y73OuD-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="-800" as="sourcePoint" />
+            <mxPoint x="-20" y="-270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-1" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Раздел номеров журнала&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="-220" y="-800" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-2" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Доступная манга для пробного чтения&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="-220" y="-710" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-3" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Раздел манги&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="-220" y="-620" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-4" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Список авторов&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="-220" y="-550" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-5" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Конкурсы&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="-220" y="-480" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-6" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Премия журнала (текущий год)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="-220" y="-410" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-8" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Новости&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="-220" y="-320" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-9" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="-WXng3lWemIyg7y73OuD-1" target="Zjqb-2b7YYDgvt7dizX2-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="-765" as="sourcePoint" />
+            <mxPoint x="-69.99999999999977" y="-775.42" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-10" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="-WXng3lWemIyg7y73OuD-1" target="Zjqb-2b7YYDgvt7dizX2-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="-675" as="sourcePoint" />
+            <mxPoint x="110.00000000000023" y="-552" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-11" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="-WXng3lWemIyg7y73OuD-1" target="Zjqb-2b7YYDgvt7dizX2-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="-595" as="sourcePoint" />
+            <mxPoint x="120.00000000000023" y="-542" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-12" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="-WXng3lWemIyg7y73OuD-1" target="Zjqb-2b7YYDgvt7dizX2-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="-525" as="sourcePoint" />
+            <mxPoint x="130.00000000000023" y="-532" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-13" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="-WXng3lWemIyg7y73OuD-1" target="Zjqb-2b7YYDgvt7dizX2-5" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="-455" as="sourcePoint" />
+            <mxPoint x="140.00000000000023" y="-522" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-14" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="-WXng3lWemIyg7y73OuD-1" target="Zjqb-2b7YYDgvt7dizX2-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="-375" as="sourcePoint" />
+            <mxPoint x="150.00000000000023" y="-512" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-15" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="-WXng3lWemIyg7y73OuD-1" target="Zjqb-2b7YYDgvt7dizX2-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="-295" as="sourcePoint" />
+            <mxPoint x="160.00000000000023" y="-502" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-16" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="-WXng3lWemIyg7y73OuD-1" source="DdIx8lzf5ebQ9bsrDzJN-17" target="Zjqb-2b7YYDgvt7dizX2-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="171.49999999999795" y="-494.9999999999998" as="sourcePoint" />
+            <mxPoint x="-40" y="-494.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="-515" />
+              <mxPoint x="20" y="-840" />
+              <mxPoint x="-140" y="-840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-17" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="-WXng3lWemIyg7y73OuD-1" source="SWQ_V45pfbTZ602N4RDF-0" target="Zjqb-2b7YYDgvt7dizX2-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="171.49999999999795" y="-494.9999999999998" as="sourcePoint" />
+            <mxPoint x="-40" y="-494.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="191" y="-230" />
+              <mxPoint x="-260" y="-230" />
+              <mxPoint x="-260" y="-675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-18" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#000000;fontFamily=Verdana;fontSize=14;align=center;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="455" y="-960" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-20" value="" style="group" parent="-WXng3lWemIyg7y73OuD-1" vertex="1" connectable="0">
+          <mxGeometry x="129" y="-627" width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-5" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Select &amp;gt;&amp;gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;" parent="Zjqb-2b7YYDgvt7dizX2-20" vertex="1">
+          <mxGeometry width="110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-11" value="" style="group" parent="Zjqb-2b7YYDgvt7dizX2-20" vertex="1" connectable="0">
+          <mxGeometry x="32.5" y="33" width="45" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-6" value="" style="group" parent="DdIx8lzf5ebQ9bsrDzJN-11" vertex="1" connectable="0">
+          <mxGeometry width="45" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-7" value="" style="endArrow=none;html=1;" parent="DdIx8lzf5ebQ9bsrDzJN-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9.642857142857142" y="16.34285714285714" as="sourcePoint" />
+            <mxPoint x="35.35714285714286" y="16.34285714285714" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-8" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="DdIx8lzf5ebQ9bsrDzJN-6" vertex="1">
+          <mxGeometry width="45" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-9" value="" style="endArrow=none;html=1;" parent="DdIx8lzf5ebQ9bsrDzJN-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9.642857142857142" y="22.628571428571426" as="sourcePoint" />
+            <mxPoint x="35.35714285714286" y="22.628571428571426" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DdIx8lzf5ebQ9bsrDzJN-10" value="" style="endArrow=none;html=1;" parent="DdIx8lzf5ebQ9bsrDzJN-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="9.642857142857142" y="28.914285714285715" as="sourcePoint" />
+            <mxPoint x="35.35714285714286" y="28.914285714285715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-21" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Раздел манги&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="-220" y="-200" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-22" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="-WXng3lWemIyg7y73OuD-1" source="SWQ_V45pfbTZ602N4RDF-1" target="Zjqb-2b7YYDgvt7dizX2-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="-285" as="sourcePoint" />
+            <mxPoint x="-130" y="-285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-23" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="-WXng3lWemIyg7y73OuD-1" source="SWQ_V45pfbTZ602N4RDF-5" target="Zjqb-2b7YYDgvt7dizX2-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290.5" y="-165" as="sourcePoint" />
+            <mxPoint x="-130" y="-165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-24" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Modal window&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Пробное чтение&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="-220" y="120" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-25" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="-WXng3lWemIyg7y73OuD-1" source="SWQ_V45pfbTZ602N4RDF-6" target="Zjqb-2b7YYDgvt7dizX2-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290.5" y="-165" as="sourcePoint" />
+            <mxPoint x="-130" y="-165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-26" value="" style="group" parent="-WXng3lWemIyg7y73OuD-1" vertex="1" connectable="0">
+          <mxGeometry x="215" y="160" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dkfq9ooyyAefEhxlNVKo-0" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Arrow&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;" parent="Zjqb-2b7YYDgvt7dizX2-26" vertex="1">
+          <mxGeometry width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dkfq9ooyyAefEhxlNVKo-9" value="" style="group" parent="Zjqb-2b7YYDgvt7dizX2-26" vertex="1" connectable="0">
+          <mxGeometry x="27.5" y="34" width="45" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="dkfq9ooyyAefEhxlNVKo-1" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=13.809523809523808;endSize=5.7;" parent="dkfq9ooyyAefEhxlNVKo-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="22.25999999999999" y="37" as="sourcePoint" />
+            <mxPoint x="22.25999999999999" y="7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dkfq9ooyyAefEhxlNVKo-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="dkfq9ooyyAefEhxlNVKo-9" vertex="1">
+          <mxGeometry width="45" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-28" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Раздел номеров журнала&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="-220" y="310" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-29" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="-WXng3lWemIyg7y73OuD-1" source="SWQ_V45pfbTZ602N4RDF-13" target="Zjqb-2b7YYDgvt7dizX2-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="65" as="sourcePoint" />
+            <mxPoint x="-210" y="-140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zjqb-2b7YYDgvt7dizX2-30" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=0.114;entryY=-0.001;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;" parent="-WXng3lWemIyg7y73OuD-1" source="dkfq9ooyyAefEhxlNVKo-5" target="DdIx8lzf5ebQ9bsrDzJN-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="666.5" y="310" as="sourcePoint" />
+            <mxPoint x="-130" y="355" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-290" y="216" />
+              <mxPoint x="-290" y="-910" />
+              <mxPoint x="180" y="-910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94Ray3ALVlqo0nQQxorh-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="-WXng3lWemIyg7y73OuD-1" source="ZqzrWkoEk2ISTtcTY1vk-11" target="ZqzrWkoEk2ISTtcTY1vk-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="-405" as="sourcePoint" />
+            <mxPoint x="1010" y="-360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94Ray3ALVlqo0nQQxorh-2" value="[link]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="94Ray3ALVlqo0nQQxorh-0" vertex="1" connectable="0">
+          <mxGeometry y="-11" relative="1" as="geometry">
+            <mxPoint x="-19.490000000000002" y="-62.4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94Ray3ALVlqo0nQQxorh-3" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="-WXng3lWemIyg7y73OuD-1" source="SWQ_V45pfbTZ602N4RDF-10" target="Zjqb-2b7YYDgvt7dizX2-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="100" as="sourcePoint" />
+            <mxPoint x="-50" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94Ray3ALVlqo0nQQxorh-4" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Список авторов&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="-220" y="410" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="94Ray3ALVlqo0nQQxorh-5" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="-WXng3lWemIyg7y73OuD-1" source="y6sWIAfbWPbm0q9wHV6t-0" target="94Ray3ALVlqo0nQQxorh-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="100" as="sourcePoint" />
+            <mxPoint x="-50" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94Ray3ALVlqo0nQQxorh-6" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Новости&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="-220" y="480" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="94Ray3ALVlqo0nQQxorh-7" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="-WXng3lWemIyg7y73OuD-1" source="QrJGiUf_0UqyR3HS8Xmj-0" target="94Ray3ALVlqo0nQQxorh-6" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="129" y="445" as="sourcePoint" />
+            <mxPoint x="-50" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94Ray3ALVlqo0nQQxorh-8" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Раздел манги&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="-220" y="630" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="94Ray3ALVlqo0nQQxorh-9" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="-WXng3lWemIyg7y73OuD-1" source="QrJGiUf_0UqyR3HS8Xmj-1" target="Zjqb-2b7YYDgvt7dizX2-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="129" y="445" as="sourcePoint" />
+            <mxPoint x="-50" y="445" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="336" y="580" />
+              <mxPoint x="-260" y="580" />
+              <mxPoint x="-260" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94Ray3ALVlqo0nQQxorh-12" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="-WXng3lWemIyg7y73OuD-1" source="QrJGiUf_0UqyR3HS8Xmj-2" target="94Ray3ALVlqo0nQQxorh-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="129" y="515" as="sourcePoint" />
+            <mxPoint x="-50" y="515" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94Ray3ALVlqo0nQQxorh-13" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="-WXng3lWemIyg7y73OuD-1" source="Zjqb-2b7YYDgvt7dizX2-18" target="Zjqb-2b7YYDgvt7dizX2-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="805" y="-910" as="sourcePoint" />
+            <mxPoint x="860" y="-910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94Ray3ALVlqo0nQQxorh-14" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.301;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;" parent="-WXng3lWemIyg7y73OuD-1" source="DdIx8lzf5ebQ9bsrDzJN-16" target="Zjqb-2b7YYDgvt7dizX2-31" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="635" y="-779.9999999999998" as="sourcePoint" />
+            <mxPoint x="390" y="-930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="235" y="-910" />
+              <mxPoint x="303" y="-910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="94Ray3ALVlqo0nQQxorh-16" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Section&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Раздел манги&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="920" y="20" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="94Ray3ALVlqo0nQQxorh-17" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="-WXng3lWemIyg7y73OuD-1" source="SWQ_V45pfbTZ602N4RDF-8" target="94Ray3ALVlqo0nQQxorh-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="45" as="sourcePoint" />
+            <mxPoint x="930" y="-335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3e2FFI4IsQCSDeExs1R--0" value="Некоторые элеметы могут осуществлять навигацию на разные подразделы одного и того же раздела" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;fillColor=#d5e8d4;strokeColor=#000000;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="620" y="-225" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ogOhRSZcEANceGzZLT_G-0" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="-WXng3lWemIyg7y73OuD-1" source="3e2FFI4IsQCSDeExs1R--0" target="SWQ_V45pfbTZ602N4RDF-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="-825" as="sourcePoint" />
+            <mxPoint x="910" y="-824.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ogOhRSZcEANceGzZLT_G-1" value="Новость может быть о новом выпуске журнала,&lt;br&gt;в этом случае ссылка в новости будет вести на данный номер журнала" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;fillColor=#d5e8d4;strokeColor=#000000;" parent="-WXng3lWemIyg7y73OuD-1" vertex="1">
+          <mxGeometry x="925" y="-180" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ogOhRSZcEANceGzZLT_G-2" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="-WXng3lWemIyg7y73OuD-1" source="ogOhRSZcEANceGzZLT_G-1" target="ZqzrWkoEk2ISTtcTY1vk-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="-165" as="sourcePoint" />
+            <mxPoint x="535.5" y="-165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NFfv0iqZqX8KzvqVVwbq" name="Auth">
+    <mxGraphModel dx="2058" dy="2316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="8ACVtXYOiE_38UEK41-k-0" />
+        <mxCell id="8ACVtXYOiE_38UEK41-k-1" parent="8ACVtXYOiE_38UEK41-k-0" />
+        <mxCell id="iamYIY9oQxbLWtLZ59lf-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Modal window&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Авторизация&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;strokeWidth=2;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="504" y="-610" width="376" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="yEWOTRAhMv0SQP6f_rGD-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Забыли пароль?&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="705" y="-410" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AVuY_TkGQqeuzRa4hYXd-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Войти&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="530" y="-410" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AVuY_TkGQqeuzRa4hYXd-1" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Password Field&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Пароль&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="530" y="-480" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AVuY_TkGQqeuzRa4hYXd-2" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Text Field&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Логин / Email&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="530" y="-550" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yNM5ougCF_9350zABv6i-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Регистрация&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="705" y="-550" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yNM5ougCF_9350zABv6i-1" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Вход через соцсеть&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="707" y="-480" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CEiJYZpI4weOF-tCet18-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Modal window&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Регистрация&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;strokeWidth=2;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="910" y="-1040" width="380" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="CEiJYZpI4weOF-tCet18-1" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Modal window&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Восстановление пароля&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;strokeWidth=2;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="930" y="-320" width="240" height="285" as="geometry" />
+        </mxCell>
+        <mxCell id="OJTYSPSbqyUHuDQ5F5mN-0" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Text Field&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Логин / Email&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="975" y="-255" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OJTYSPSbqyUHuDQ5F5mN-1" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Button&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Отмена&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="975" y="-185" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OJTYSPSbqyUHuDQ5F5mN-2" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Button&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Сбросить пароль&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="975" y="-115" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EUI5tQcaRvZl_vlDSqAf-0" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#000000;fontFamily=Verdana;fontSize=14;align=center;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="677" y="-700" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ytD5UdPRR3mC4IP6FeQp-0" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Text Field&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Логин&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="940" y="-980" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ytD5UdPRR3mC4IP6FeQp-1" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Text Field&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Email&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="940" y="-910" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ytD5UdPRR3mC4IP6FeQp-2" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Password Field&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Пароль&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="940" y="-840" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ytD5UdPRR3mC4IP6FeQp-3" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Password Field&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Подтвердить&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="1110" y="-840" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ytD5UdPRR3mC4IP6FeQp-4" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Button &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Создать аккаунт&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="1025" y="-700" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ytD5UdPRR3mC4IP6FeQp-5" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Checkbox&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Показать пароль&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="940" y="-770" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ytD5UdPRR3mC4IP6FeQp-6" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Text Field&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Username&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="1110" y="-980" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NIottuRBVJ3XOL1TWE3B-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="8ACVtXYOiE_38UEK41-k-1" source="EUI5tQcaRvZl_vlDSqAf-0" target="iamYIY9oQxbLWtLZ59lf-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="-720" as="sourcePoint" />
+            <mxPoint x="540" y="-660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cega_6Qy36eV8VydHnNe-0" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#A680B8;fillColor=none;resizable=0;pointerEvents=0;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="585" y="-270" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DU3Hs1My8wk-lMM3tiAX-0" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;fontFamily=Comic Sans MS;fontSize=14;strokeWidth=2;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="280" y="-485" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tVFM1ZLXU4v-zKj9f-72-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="8ACVtXYOiE_38UEK41-k-1" source="iamYIY9oQxbLWtLZ59lf-0" target="DU3Hs1My8wk-lMM3tiAX-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="702" y="-660" as="sourcePoint" />
+            <mxPoint x="390" y="-430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tVFM1ZLXU4v-zKj9f-72-1" value="&lt;span style=&quot;font-size: 14px&quot;&gt;[нажать на область&lt;/span&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;вне модального окна]&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="tVFM1ZLXU4v-zKj9f-72-0" vertex="1" connectable="0">
+          <mxGeometry x="-0.3084" y="2" relative="1" as="geometry">
+            <mxPoint x="-27.810000000000002" y="-27.35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WPeR7EL5u33gdeIuf4sP-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="8ACVtXYOiE_38UEK41-k-1" source="AVuY_TkGQqeuzRa4hYXd-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="524" y="-250" as="sourcePoint" />
+            <mxPoint x="605" y="-270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BApfPHtsf6iJ7g8ijjtT-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="8ACVtXYOiE_38UEK41-k-1" source="Cega_6Qy36eV8VydHnNe-0" target="DU3Hs1My8wk-lMM3tiAX-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="514" y="-460" as="sourcePoint" />
+            <mxPoint x="320" y="-460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BApfPHtsf6iJ7g8ijjtT-1" value="&lt;span style=&quot;font-size: 14px&quot;&gt;[найдены совпадения в базе данных&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;]&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="BApfPHtsf6iJ7g8ijjtT-0" vertex="1" connectable="0">
+          <mxGeometry x="-0.3084" y="2" relative="1" as="geometry">
+            <mxPoint x="25" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ryR0CLvHt0nYzU2T_7c7-0" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Pop-up&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Сообщение&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="330" y="-190" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="63boiIuf7HWpRgdlef7f-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="8ACVtXYOiE_38UEK41-k-1" source="Cega_6Qy36eV8VydHnNe-0" target="ryR0CLvHt0nYzU2T_7c7-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="595" y="-240" as="sourcePoint" />
+            <mxPoint x="305" y="-445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="63boiIuf7HWpRgdlef7f-1" value="&lt;span style=&quot;font-size: 14px&quot;&gt;[нет совпадений&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;]&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=13;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="63boiIuf7HWpRgdlef7f-0" vertex="1" connectable="0">
+          <mxGeometry x="-0.3084" y="2" relative="1" as="geometry">
+            <mxPoint x="-64" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--6lqTRzchg25hspdItC-0" value="Неправильное имя пользователя или пароль. Пожалуйста, проверьте введённые данные и попытайтесь снова" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="480" y="-140" width="269" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dIszG3QKqDN2U6Bjv4KK-0" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="8ACVtXYOiE_38UEK41-k-1" source="--6lqTRzchg25hspdItC-0" target="ryR0CLvHt0nYzU2T_7c7-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="444.5" y="45" as="sourcePoint" />
+            <mxPoint x="400" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ISk_XCIvq_t1AlCnabkn-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="8ACVtXYOiE_38UEK41-k-1" source="yEWOTRAhMv0SQP6f_rGD-0" target="CEiJYZpI4weOF-tCet18-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="615" y="-350" as="sourcePoint" />
+            <mxPoint x="615" y="-260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ebtFzY9lrmivf7ZWf9rB-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="8ACVtXYOiE_38UEK41-k-1" source="OJTYSPSbqyUHuDQ5F5mN-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="865" y="-375" as="sourcePoint" />
+            <mxPoint x="880" y="-420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="-160" />
+              <mxPoint x="1200" y="-420" />
+              <mxPoint x="880" y="-420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ebtFzY9lrmivf7ZWf9rB-1" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Pop-up&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Сообщение&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="865" y="90" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr-p8C3Nle7sxssuWxm6-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="8ACVtXYOiE_38UEK41-k-1" source="OJTYSPSbqyUHuDQ5F5mN-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1140" y="-20" as="sourcePoint" />
+            <mxPoint x="1050" y="19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="paMslm5Z1AImgBr480tB-0" value="" style="endArrow=none;html=1;strokeWidth=6;" parent="8ACVtXYOiE_38UEK41-k-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="995" y="22" as="sourcePoint" />
+            <mxPoint x="1105" y="22" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="paMslm5Z1AImgBr480tB-1" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=0.75;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="8ACVtXYOiE_38UEK41-k-1" target="iamYIY9oQxbLWtLZ59lf-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1020" y="20" as="sourcePoint" />
+            <mxPoint x="1060" y="30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="60" />
+              <mxPoint x="786" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="paMslm5Z1AImgBr480tB-2" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="8ACVtXYOiE_38UEK41-k-1" target="ebtFzY9lrmivf7ZWf9rB-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="20" as="sourcePoint" />
+            <mxPoint x="1060" y="30" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1080" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rEZ8UANRAvBYbO2bI-BO-0" value="Если пользователь или электронная почта существуют, вы вскоре получите электронное письмо" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="480" y="60" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rEZ8UANRAvBYbO2bI-BO-1" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;entryX=0;entryY=0;entryDx=270;entryDy=55;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="8ACVtXYOiE_38UEK41-k-1" source="ebtFzY9lrmivf7ZWf9rB-1" target="rEZ8UANRAvBYbO2bI-BO-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="-85" as="sourcePoint" />
+            <mxPoint x="395" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fSFKFPJ0UloqKL2-D610-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="8ACVtXYOiE_38UEK41-k-1" source="yNM5ougCF_9350zABv6i-0" target="CEiJYZpI4weOF-tCet18-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="865" y="-375" as="sourcePoint" />
+            <mxPoint x="1060" y="-310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jb8GroH0jsgIub_OctIy-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Modal window&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Форма авторизации&lt;br&gt;соцсети&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;align=center;verticalAlign=middle;strokeWidth=2;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="1150" y="-584" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb8GroH0jsgIub_OctIy-1" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="8ACVtXYOiE_38UEK41-k-1" source="yNM5ougCF_9350zABv6i-1" target="Jb8GroH0jsgIub_OctIy-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="865" y="-375" as="sourcePoint" />
+            <mxPoint x="1060" y="-310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g15sLbVyZCIzXsECtbmk-0" value="Элементы &amp;lt;&amp;lt;Text Field&amp;gt;&amp;gt; и &amp;lt;&amp;lt;Password Field&amp;gt;&amp;gt; инициируют предупреждения &amp;lt;&amp;lt;Pop-up&amp;gt;&amp;gt; в случае некорректного ввода (включанная кнопка Caps Lock, неправильная раскладка клавиатуры, et cetera)" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="450" y="-880" width="390" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="g15sLbVyZCIzXsECtbmk-1" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;exitX=0;exitY=0;exitDx=390;exitDy=55;exitPerimeter=0;entryX=0;entryY=0.512;entryDx=0;entryDy=0;entryPerimeter=0;" parent="8ACVtXYOiE_38UEK41-k-1" source="g15sLbVyZCIzXsECtbmk-0" target="CEiJYZpI4weOF-tCet18-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="-760" as="sourcePoint" />
+            <mxPoint x="900" y="-825" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g15sLbVyZCIzXsECtbmk-2" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.863;exitY=1.025;exitDx=0;exitDy=0;exitPerimeter=0;" parent="8ACVtXYOiE_38UEK41-k-1" source="g15sLbVyZCIzXsECtbmk-0" target="iamYIY9oQxbLWtLZ59lf-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="786" y="-780" as="sourcePoint" />
+            <mxPoint x="920" y="-814.96" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="usqkKgL9f-WnRGQpd2Rs-0" value="Использование данного примера снизить уникальность содержательной части работы" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;fillColor=#d5e8d4;strokeColor=#000000;" parent="8ACVtXYOiE_38UEK41-k-1" vertex="1">
+          <mxGeometry x="450" y="-1000" width="250" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rUYs28t8ZNDbwcB9vNpA" name="Authors">
+    <mxGraphModel dx="2885" dy="2316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="TTKWRyC1UsdZiTYOOJN1-0" />
+        <mxCell id="TTKWRyC1UsdZiTYOOJN1-1" parent="TTKWRyC1UsdZiTYOOJN1-0" />
+        <mxCell id="TTKWRyC1UsdZiTYOOJN1-2" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Section&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Список авторов&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;strokeWidth=2;" parent="TTKWRyC1UsdZiTYOOJN1-1" vertex="1">
+          <mxGeometry x="-413" y="-950" width="500" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJmsBcCemdi6Crx7hC7L-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Header &amp;gt;&amp;gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;" parent="TTKWRyC1UsdZiTYOOJN1-1" vertex="1">
+          <mxGeometry x="-363" y="-890" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJmsBcCemdi6Crx7hC7L-10" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#000000;fontFamily=Verdana;fontSize=14;align=center;" parent="TTKWRyC1UsdZiTYOOJN1-1" vertex="1">
+          <mxGeometry x="-178" y="-1040" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZJmsBcCemdi6Crx7hC7L-11" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="TTKWRyC1UsdZiTYOOJN1-1" source="ZJmsBcCemdi6Crx7hC7L-10" target="TTKWRyC1UsdZiTYOOJN1-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="242" y="-990" as="sourcePoint" />
+            <mxPoint x="-93" y="-950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7UOQdvxaM6du18cvsMjd-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Block &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Список авторов&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;" parent="TTKWRyC1UsdZiTYOOJN1-1" vertex="1">
+          <mxGeometry x="-183" y="-840" width="180" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="7UOQdvxaM6du18cvsMjd-1" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Content&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Аватар&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="TTKWRyC1UsdZiTYOOJN1-1" vertex="1">
+          <mxGeometry x="-158" y="-780" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7UOQdvxaM6du18cvsMjd-2" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Text&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Имя автора&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="TTKWRyC1UsdZiTYOOJN1-1" vertex="1">
+          <mxGeometry x="-158" y="-690" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="7UOQdvxaM6du18cvsMjd-3" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Link&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Ссылка на&lt;br&gt;соцсеть&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;align=center;verticalAlign=middle;" parent="TTKWRyC1UsdZiTYOOJN1-1" vertex="1">
+          <mxGeometry x="-158" y="-600" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iYJ_wTOmFtkjYgzn2c4y-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Footer&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;" parent="TTKWRyC1UsdZiTYOOJN1-1" vertex="1">
+          <mxGeometry x="-363" y="-470" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wsKhM8bnSuzH-1h36l2g-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Modal window&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Автор&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;strokeWidth=2;" parent="TTKWRyC1UsdZiTYOOJN1-1" vertex="1">
+          <mxGeometry x="217" y="-860" width="230" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="1sBOMnkbQ7Zdaedezwbr-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="TTKWRyC1UsdZiTYOOJN1-1" source="7UOQdvxaM6du18cvsMjd-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-83" y="-1000" as="sourcePoint" />
+            <mxPoint x="137" y="-655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1sBOMnkbQ7Zdaedezwbr-1" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="TTKWRyC1UsdZiTYOOJN1-1" source="7UOQdvxaM6du18cvsMjd-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-18" y="-645" as="sourcePoint" />
+            <mxPoint x="137" y="-745" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9235XolcTRK36vM0b7I-0" value="" style="endArrow=none;html=1;strokeWidth=6;" parent="TTKWRyC1UsdZiTYOOJN1-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="-760" as="sourcePoint" />
+            <mxPoint x="140" y="-640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p9235XolcTRK36vM0b7I-1" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Text&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Информация&lt;br&gt;об авторе&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="TTKWRyC1UsdZiTYOOJN1-1" vertex="1">
+          <mxGeometry x="267" y="-800" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p9235XolcTRK36vM0b7I-2" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Link&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Ссылка на&lt;br&gt;соцсеть&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B3B3B3;align=center;verticalAlign=middle;" parent="TTKWRyC1UsdZiTYOOJN1-1" vertex="1">
+          <mxGeometry x="267" y="-710" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p9235XolcTRK36vM0b7I-3" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="TTKWRyC1UsdZiTYOOJN1-1" target="wsKhM8bnSuzH-1h36l2g-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="-700" as="sourcePoint" />
+            <mxPoint x="140" y="-740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCDEsXtj3Mj2VagiFmtM-9" value="" style="group" parent="TTKWRyC1UsdZiTYOOJN1-1" vertex="1" connectable="0">
+          <mxGeometry x="-323" y="-590" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="appoCR5VfJtQpmbUfhbJ-0" value="" style="group" parent="gCDEsXtj3Mj2VagiFmtM-9" vertex="1" connectable="0">
+          <mxGeometry width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="appoCR5VfJtQpmbUfhbJ-1" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Arrow&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;" parent="appoCR5VfJtQpmbUfhbJ-0" vertex="1">
+          <mxGeometry width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="appoCR5VfJtQpmbUfhbJ-2" value="" style="group" parent="appoCR5VfJtQpmbUfhbJ-0" vertex="1" connectable="0">
+          <mxGeometry x="27.5" y="34" width="45" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="appoCR5VfJtQpmbUfhbJ-3" value="" style="shape=flexArrow;endArrow=classic;html=1;endWidth=13.809523809523808;endSize=5.7;" parent="appoCR5VfJtQpmbUfhbJ-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="22.25999999999999" y="37" as="sourcePoint" />
+            <mxPoint x="22.25999999999999" y="7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="appoCR5VfJtQpmbUfhbJ-4" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="appoCR5VfJtQpmbUfhbJ-2" vertex="1">
+          <mxGeometry width="45" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gCDEsXtj3Mj2VagiFmtM-10" value="" style="group" parent="TTKWRyC1UsdZiTYOOJN1-1" vertex="1" connectable="0">
+          <mxGeometry x="-323" y="-840" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gCDEsXtj3Mj2VagiFmtM-0" value="" style="group" parent="gCDEsXtj3Mj2VagiFmtM-10" vertex="1" connectable="0">
+          <mxGeometry width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gCDEsXtj3Mj2VagiFmtM-1" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Select &amp;gt;&amp;gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;" parent="gCDEsXtj3Mj2VagiFmtM-0" vertex="1">
+          <mxGeometry width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gCDEsXtj3Mj2VagiFmtM-2" value="" style="group" parent="gCDEsXtj3Mj2VagiFmtM-0" vertex="1" connectable="0">
+          <mxGeometry x="29.545454545454543" y="33" width="40.90909090909091" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gCDEsXtj3Mj2VagiFmtM-3" value="" style="group" parent="gCDEsXtj3Mj2VagiFmtM-2" vertex="1" connectable="0">
+          <mxGeometry width="40.90909090909091" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gCDEsXtj3Mj2VagiFmtM-4" value="" style="endArrow=none;html=1;" parent="gCDEsXtj3Mj2VagiFmtM-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8.766233766233766" y="16.34285714285714" as="sourcePoint" />
+            <mxPoint x="32.142857142857146" y="16.34285714285714" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCDEsXtj3Mj2VagiFmtM-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="gCDEsXtj3Mj2VagiFmtM-3" vertex="1">
+          <mxGeometry width="40.90909090909091" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="gCDEsXtj3Mj2VagiFmtM-6" value="" style="endArrow=none;html=1;" parent="gCDEsXtj3Mj2VagiFmtM-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8.766233766233766" y="22.628571428571426" as="sourcePoint" />
+            <mxPoint x="32.142857142857146" y="22.628571428571426" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gCDEsXtj3Mj2VagiFmtM-7" value="" style="endArrow=none;html=1;" parent="gCDEsXtj3Mj2VagiFmtM-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="8.766233766233766" y="28.914285714285715" as="sourcePoint" />
+            <mxPoint x="32.142857142857146" y="28.914285714285715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CwasweJnpgAfoXbEdIZu-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Button&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Отмена&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="TTKWRyC1UsdZiTYOOJN1-1" vertex="1">
+          <mxGeometry x="267" y="-620" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TPFnuVa7z7CfWLdRDN2E-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.645;entryDx=0;entryDy=0;entryPerimeter=0;" parent="TTKWRyC1UsdZiTYOOJN1-1" source="CwasweJnpgAfoXbEdIZu-0" target="TTKWRyC1UsdZiTYOOJN1-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="746.9999999999998" y="-865" as="sourcePoint" />
+            <mxPoint x="127" y="-595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0-B2zJnkpQdK0Jk3VGbr-0" value="Содержание и навигация элементов &amp;lt;&amp;lt;Header&amp;gt;&amp;gt;, &amp;lt;&amp;lt;Select&amp;gt;&amp;gt;, &amp;lt;&amp;lt;Arrow&amp;gt;&amp;gt; и &amp;lt;&amp;lt;Footer&amp;gt;&amp;gt; идентичны главной странице (Home Page)" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;" parent="TTKWRyC1UsdZiTYOOJN1-1" vertex="1">
+          <mxGeometry x="-308" y="-340" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kM7pyHhNtTaUnAzLkARx-0" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="TTKWRyC1UsdZiTYOOJN1-1" source="TTKWRyC1UsdZiTYOOJN1-2" target="0-B2zJnkpQdK0Jk3VGbr-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="86.00000000000006" y="-440" as="sourcePoint" />
+            <mxPoint x="86.80000000000001" y="-262.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kM7pyHhNtTaUnAzLkARx-1" value="Элементы, не связанные с навигацией, также могут присутствовать на диаграмме" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;fillColor=#d5e8d4;strokeColor=#000000;" parent="TTKWRyC1UsdZiTYOOJN1-1" vertex="1">
+          <mxGeometry x="217" y="-990" width="223" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kM7pyHhNtTaUnAzLkARx-2" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;entryX=0;entryY=0;entryDx=223;entryDy=55;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="TTKWRyC1UsdZiTYOOJN1-1" source="p9235XolcTRK36vM0b7I-1" target="kM7pyHhNtTaUnAzLkARx-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-153" y="-390" as="sourcePoint" />
+            <mxPoint x="-153" y="-330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="-765" />
+              <mxPoint x="500" y="-935" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="L4Q-zIqGm-YAPh2rHvx4" name="Sample">
+    <mxGraphModel dx="2058" dy="2316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="cHBCUYcH12pFQTHjw3Bb-0" />
+        <mxCell id="cHBCUYcH12pFQTHjw3Bb-1" parent="cHBCUYcH12pFQTHjw3Bb-0" />
+        <mxCell id="C-2KbxpZdUbFFyzQBsvO-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Раздел&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Главная страница&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;strokeWidth=2;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="290" y="-930" width="460" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="JLeOj7huGWIWH7gzC3EU-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Header &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Логотип, Пафосная фраза о спасении души&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="330" y="-870" width="380" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="QU9_o19seGO_w3qWRS_Z-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Кнопка &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Вход в систему&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="550" y="-810" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DGhi603br_3v2ogj1G0s-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Кнопка&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Поиск ответов&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="550" y="-714" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7CUS7TIRTA79KDELO1f9-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Кнопка&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Задать вопрос&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="360" y="-714.5" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="donH_Xn-h_-430NneI9n-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Плеер &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Видео о проекте&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="450" y="-640" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yROl9_rWVNX10d6iAKiw-0" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Footer&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Копирайт&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="420" y="-560" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qYu1HBhHOOYF5gd7Kr5C-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Модальное окно&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Поиск ответов&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;strokeWidth=2;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="810" y="-620" width="260" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="cx_yuhQ9b8gVQLY_fo5r-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Поисковая строка &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Найти ответ&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="850" y="-560" width="175" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="996A6aOYvxj3wKARKEct-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Теги &amp;gt;&amp;gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="890" y="-490" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WepGD7nJpSEowG1gpk4p-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Кнопка&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Отмена&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="875" y="-420" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hOgaCQxAmfuW99ls8OdC-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="DGhi603br_3v2ogj1G0s-0" target="qYu1HBhHOOYF5gd7Kr5C-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="-451" as="sourcePoint" />
+            <mxPoint x="982.5" y="-510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hOgaCQxAmfuW99ls8OdC-1" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="WepGD7nJpSEowG1gpk4p-0" target="C-2KbxpZdUbFFyzQBsvO-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="-530" as="sourcePoint" />
+            <mxPoint x="770" y="-599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3QzOguo8gMlZ51_J3aRy-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.572;entryDx=0;entryDy=0;entryPerimeter=0;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="cx_yuhQ9b8gVQLY_fo5r-0" target="qYu1HBhHOOYF5gd7Kr5C-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="-474.5" as="sourcePoint" />
+            <mxPoint x="1210" y="-534.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1120" y="-534.5" />
+              <mxPoint x="1120" y="-465.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BchhPp3G7p1UuYzuvWTb-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Модальное окно&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Задать вопрос&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;strokeWidth=2;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="310" y="-320" width="420" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="NrRyayVtfBwjpHrdP41q-0" value="Результаты поиска отображаются в данном окне" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;fillColor=none;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="1010" y="-714" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QsJSKnNeFJDHdFKQFZvJ-0" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="NrRyayVtfBwjpHrdP41q-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="-630" as="sourcePoint" />
+            <mxPoint x="1095" y="-540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AdqAlozVJJmJ0vtN4SeN-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Модальное окно&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Вход в систему&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=top;strokeWidth=2;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="875" y="-1070" width="420" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="AdqAlozVJJmJ0vtN4SeN-1" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Кнопка &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Войти&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="1095" y="-940" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YtabK5RIbIGZxN7Z9qlu-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Текстовое поле &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Email&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="905" y="-1010" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wnVl5Y4MZ4FIh0YW5pyJ-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Маска ввода &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Телефон&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="1095" y="-1010" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lBgj2PJHpZ3jRx4pQqrp-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Маска ввода &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Проверочный код&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="905" y="-940" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CWzgDJDMxG598p_w5-Iv-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="QU9_o19seGO_w3qWRS_Z-0" target="AdqAlozVJJmJ0vtN4SeN-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="-679" as="sourcePoint" />
+            <mxPoint x="980" y="-610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a10vNfkY6jA_r2RC9Znx-0" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#A680B8;fillColor=none;resizable=0;pointerEvents=0;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="1360" y="-610" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="a10vNfkY6jA_r2RC9Znx-1" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="AdqAlozVJJmJ0vtN4SeN-1" target="a10vNfkY6jA_r2RC9Znx-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1170" y="-785.0000000000002" as="sourcePoint" />
+            <mxPoint x="1420" y="-660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O1fDtRC1gKicURuGMWiT-0" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Pop-up&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Сообщение&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="1170" y="-615" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O1fDtRC1gKicURuGMWiT-1" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="a10vNfkY6jA_r2RC9Znx-0" target="O1fDtRC1gKicURuGMWiT-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="-300" as="sourcePoint" />
+            <mxPoint x="1181" y="-370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q_NHAOixez5QvlNRPR-7-0" value="&lt;span&gt;Если пользователь не задал вопрос,&amp;nbsp;&lt;/span&gt;&lt;span&gt;то его нет в базе данных&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;fillColor=none;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="1125" y="-810" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QUoqZ7MTrbODjHTqUqlU-0" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="O1fDtRC1gKicURuGMWiT-0" target="q_NHAOixez5QvlNRPR-7-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1280" y="-650" as="sourcePoint" />
+            <mxPoint x="1270" y="-710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yjCn0SY7SUht9KrfhBqH-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Раздел&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Личный кабинет пользователя&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;strokeWidth=2;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="1150" y="-535" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="L_9sKj1ofoZIQC1ek86i-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Раздел&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Личный кабинет батюшки&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;strokeWidth=2;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="1120" y="-440" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BUqOIJNWE3elvHqfqIRM-0" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="a10vNfkY6jA_r2RC9Znx-0" target="yjCn0SY7SUht9KrfhBqH-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="-530" as="sourcePoint" />
+            <mxPoint x="1290" y="-580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUqOIJNWE3elvHqfqIRM-1" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="a10vNfkY6jA_r2RC9Znx-0" target="L_9sKj1ofoZIQC1ek86i-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1390" y="-560" as="sourcePoint" />
+            <mxPoint x="1320" y="-445" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1430" y="-590" />
+              <mxPoint x="1430" y="-405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BUqOIJNWE3elvHqfqIRM-2" value="[status =&amp;nbsp;priest]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Comic Sans MS;fontSize=13;labelBackgroundColor=none;" parent="BUqOIJNWE3elvHqfqIRM-1" vertex="1" connectable="0">
+          <mxGeometry x="-0.0056" y="2" relative="1" as="geometry">
+            <mxPoint x="-76" y="17.57" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MO8N8vvoposAnKxz-Q2o-0" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#000000;fontFamily=Verdana;fontSize=14;align=center;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="505" y="-1020" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MO8N8vvoposAnKxz-Q2o-1" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="MO8N8vvoposAnKxz-Q2o-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="925" y="-970" as="sourcePoint" />
+            <mxPoint x="520" y="-930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKaUGqeEPpaVkPo0i_ff-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Текстовое поле &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Email&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="340" y="-260" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uKaUGqeEPpaVkPo0i_ff-1" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Текстовое поле &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Имя&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="340" y="-190" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uKaUGqeEPpaVkPo0i_ff-3" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Текстовое поле &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Возраст&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="530" y="-190" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uKaUGqeEPpaVkPo0i_ff-4" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Маска ввода &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Телефон&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="530" y="-260" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4_sIRDXcGucDD40PzyxT-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Радиокнопка &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Пол&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="340" y="-120" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IOHBJyMyk2T8lhD39gZt-0" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Текстовое поле &amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Текст вопроса&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="530" y="-120" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IOHBJyMyk2T8lhD39gZt-1" value="&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;lt;&amp;lt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Кнопка&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;Задать вопрос&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="450" y="-50" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IOHBJyMyk2T8lhD39gZt-2" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="7CUS7TIRTA79KDELO1f9-0" target="BchhPp3G7p1UuYzuvWTb-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="-679" as="sourcePoint" />
+            <mxPoint x="950" y="-610.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="-689" />
+              <mxPoint x="250" y="-145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4h-azFVMfL-mtSveQAFh-0" value="" style="endArrow=none;html=1;strokeWidth=6;" parent="cHBCUYcH12pFQTHjw3Bb-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="873" y="-70" as="sourcePoint" />
+            <mxPoint x="873" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4h-azFVMfL-mtSveQAFh-1" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="IOHBJyMyk2T8lhD39gZt-1" target="6ATcA8o-zmFinydbvHVL-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1369.9999999999995" y="-550.0000000000002" as="sourcePoint" />
+            <mxPoint x="790" y="-25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4h-azFVMfL-mtSveQAFh-2" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="cHBCUYcH12pFQTHjw3Bb-1" target="BchhPp3G7p1UuYzuvWTb-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="875" y="-50" as="sourcePoint" />
+            <mxPoint x="800" y="-14.999999999999773" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="910" y="-50" />
+              <mxPoint x="910" y="-145" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2LjdCGs80rOjUZGlVlIJ-0" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Pop-up&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Сообщение&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="955" y="-24" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2LjdCGs80rOjUZGlVlIJ-1" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="cHBCUYcH12pFQTHjw3Bb-1" target="2LjdCGs80rOjUZGlVlIJ-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="875" y="1" as="sourcePoint" />
+            <mxPoint x="955" y="1" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_aRLiD9U_OB1YSFJLdNP-0" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Ваш вопрос задан, ожидайте ответа&lt;br&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;fillColor=none;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="1125" y="-24" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BD8uCDfZTtKWy3Zu97tH-0" value="Элементы &amp;lt;&amp;lt;Текстовое поле&amp;gt;&amp;gt; и &amp;lt;&amp;lt;Маска ввода&amp;gt;&amp;gt; инициируют предупреждения &amp;lt;&amp;lt;Pop-up&amp;gt;&amp;gt; в случае некорректного ввода (недопустимые символы, включанная кнопка Caps Lock, et cetera)" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;fillColor=none;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="955" y="-160" width="380" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BD8uCDfZTtKWy3Zu97tH-1" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;entryX=0;entryY=0;entryDx=180;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="BchhPp3G7p1UuYzuvWTb-0" target="BD8uCDfZTtKWy3Zu97tH-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="-250" as="sourcePoint" />
+            <mxPoint x="1105" y="-500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BD8uCDfZTtKWy3Zu97tH-2" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="2LjdCGs80rOjUZGlVlIJ-0" target="_aRLiD9U_OB1YSFJLdNP-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="805" y="-221.5" as="sourcePoint" />
+            <mxPoint x="875" y="-221" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qvnQ_ylkQ0gr27l_RfIL-0" value="&lt;span&gt;Стереотипы видов деятельности внутри состояний можно размещать произвольным образом&amp;nbsp;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;fillColor=none;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="560" y="-1040" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fLyZaf4XAqXoLQ75939a-0" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.266;entryY=1.035;entryDx=0;entryDy=0;entryPerimeter=0;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="C-2KbxpZdUbFFyzQBsvO-0" target="qvnQ_ylkQ0gr27l_RfIL-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1234.9999999999995" y="-605.0000000000002" as="sourcePoint" />
+            <mxPoint x="635" y="-960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dPXDChE2dtA_L46P9aWo-0" value="Элементы, не связанные с навигацией, также могут присутствовать на диаграмме" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;fillColor=none;strokeColor=#000000;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="337" y="-440" width="223" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dPXDChE2dtA_L46P9aWo-1" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="cHBCUYcH12pFQTHjw3Bb-1" target="donH_Xn-h_-430NneI9n-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="-440" as="sourcePoint" />
+            <mxPoint x="430" y="-534.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="-615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQEZj2uLgMRJOP0yReih-0" value="&lt;span&gt;Для отмены также можно нажать на область вне модального окна (относится ко всем модальным окнам системы)&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;fillColor=none;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="995" y="-330" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATcA8o-zmFinydbvHVL-0" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="qYu1HBhHOOYF5gd7Kr5C-0" target="zQEZj2uLgMRJOP0yReih-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="-222.5" as="sourcePoint" />
+            <mxPoint x="1075" y="-150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ATcA8o-zmFinydbvHVL-1" value="" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#A680B8;fillColor=none;resizable=0;pointerEvents=0;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="780" y="-45" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATcA8o-zmFinydbvHVL-2" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="6ATcA8o-zmFinydbvHVL-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="870" y="15" as="sourcePoint" />
+            <mxPoint x="870" y="-25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ATcA8o-zmFinydbvHVL-3" value="&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;&amp;lt;&amp;lt; Pop-up&amp;nbsp;&amp;gt;&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-family: &amp;#34;comic sans ms&amp;#34; ; font-size: 14px&quot;&gt;&lt;font face=&quot;comic sans ms&quot;&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Сообщение&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="765" y="120" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATcA8o-zmFinydbvHVL-4" value="" style="endArrow=none;html=1;strokeWidth=6;" parent="cHBCUYcH12pFQTHjw3Bb-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="845.15" y="43" as="sourcePoint" />
+            <mxPoint x="754.86" y="43" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ATcA8o-zmFinydbvHVL-5" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="cHBCUYcH12pFQTHjw3Bb-1" source="6ATcA8o-zmFinydbvHVL-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="830" y="-15" as="sourcePoint" />
+            <mxPoint x="800" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ATcA8o-zmFinydbvHVL-6" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="cHBCUYcH12pFQTHjw3Bb-1" target="BchhPp3G7p1UuYzuvWTb-0" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="45" as="sourcePoint" />
+            <mxPoint x="630" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="90" />
+              <mxPoint x="520" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ATcA8o-zmFinydbvHVL-7" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;fontSize=14;spacing=2;endSize=8;" parent="cHBCUYcH12pFQTHjw3Bb-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="44" as="sourcePoint" />
+            <mxPoint x="820" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6ATcA8o-zmFinydbvHVL-10" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Проверьте корректность введенных данных&lt;br&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;fillColor=none;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="935" y="120" width="215" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6ATcA8o-zmFinydbvHVL-11" value="" style="endArrow=none;dashed=1;html=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="cHBCUYcH12pFQTHjw3Bb-1" target="6ATcA8o-zmFinydbvHVL-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="875" y="145" as="sourcePoint" />
+            <mxPoint x="685" y="-77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yCzbqQf9LOsV_HXdUFLa-1" value="&lt;span style=&quot;font-size: 14px&quot;&gt;Для всплывающих сообщений можно не указывать дальнейшую навигацию&amp;nbsp;&lt;/span&gt;(как это показано для входа в систему)&lt;span style=&quot;font-size: 14px&quot;&gt;, если пользователь остается на прежнем окне&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Comic Sans MS;fontSize=14;align=left;size=20;spacingTop=10;spacingBottom=10;spacingLeft=10;spacingRight=25;fillColor=none;" parent="cHBCUYcH12pFQTHjw3Bb-1" vertex="1">
+          <mxGeometry x="935" y="44" width="425" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
